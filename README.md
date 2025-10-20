@@ -1,4 +1,4 @@
-# AdivinoAndroidApp 🎯
+# Adivino_Bot 🎯
 
 Una app Android que adivina el número que estás pensando entre 0 y 100. Usa lógica binaria para reducir las opciones y acertar tu número.
 
